@@ -6,7 +6,7 @@
 
 Can the alignment of the stars at your birth predict your personality, or is it all just a cosmic coincidence? This repository contains the data, statistical workflows, and findings of an empirical study investigating the relationship between **Sidereal (Vedic) Zodiac signs** and self-reported personality traits. 
 
-Conducted as part of the *Selected Topics in Computational Statistics* curriculum at **Hochschule Mittweida University of Applied Sciences**, Germany, this research utilizes quantitative data from over 80 surveyed individuals to test the validity of horoscopic descriptions through rigorous statistical hypothesis testing.
+Conducted as part of the *Selected Topics in Computational Statistics* curriculum at **Hochschule Mittweida University of Applied Sciences**, Germany, this research utilizes quantitative data from 80 surveyed individuals to test the validity of horoscopic descriptions through rigorous statistical hypothesis testing.
 
 ---
 
