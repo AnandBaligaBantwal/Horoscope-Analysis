@@ -21,7 +21,7 @@ Conducted as part of the *Selected Topics in Computational Statistics* curriculu
 ## 🛠️ Methodology & Tech Stack
 
 ### Data Collection & Preprocessing
-* **Primary Data:** Collected custom survey responses ($N=80+$, predominantly localized to Mangaluru, Karnataka, India) using a structured 30-question, **7-level Likert Scale**.
+* **Primary Data:** Collected custom survey responses ($N=80$, predominantly localized to Mangaluru, Karnataka, India) using a structured 30-question, **7-level Likert Scale**.
 * **Astronomical Standardization:** Transformed raw dates and birth times into exact Sidereal Zodiac signs using precise geographic coordinates (Latitude/Longitude) to adjust for local solar time and earth's axial precession.
 * **Data Cleaning:** Processed, handled missing values, and isolated outliers using **Microsoft Excel** and **R (dplyr)**.
 
