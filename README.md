@@ -1,4 +1,4 @@
-# Astro-Statistical Analysis: Investigating Zodiac Signs & Personality Traits
+# Horoscope Analysis: Investigating Zodiac Signs & Personality Traits
 
 [![R Language](https://img.shields.io/badge/Language-R-blue.svg)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/Language-Python-green.svg)](https://www.python.org/)
